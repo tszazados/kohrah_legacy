@@ -17,3 +17,6 @@
         }
     }
 ],
+"require": {
+    "tszazados/kohrah_legacy": "dev-master"
+},
